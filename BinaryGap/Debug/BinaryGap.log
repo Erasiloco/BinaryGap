@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\yerassyl\desktop\binarygap\binarygap\source.c(28): warning C4013: 'system' undefined; assuming extern returning int
+  BinaryGap.vcxproj -> C:\Users\Yerassyl\Desktop\BinaryGap\Debug\BinaryGap.exe
